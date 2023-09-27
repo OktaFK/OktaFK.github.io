@@ -1,0 +1,34 @@
+.navbar {
+  background-color: #dfa64a;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e1dacf;
+}
+
+#about {
+  background-color: #ffffff;
+}
+
+#projects {
+  background-color: #e1dacf;
+}
+
+#footer {
+  background-color: #dfa64a;
+  font-weight: bold;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.bootstrap-icons {
+  color: #a1988a;
+  font-size: larger;
+}
+
+.bootstrap-icons:hover {
+  color: #fa9d06; /* Ganti dengan warna lain ketika dihover */
+}
